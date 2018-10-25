@@ -49,8 +49,4 @@ end
 # get every test to pass before coding runner below #
 #####################################################
 
-def invalid_command
-  puts "Sorry, not a valid command"
-  get_user_input
-  puts "Please enter a valid command"
-end
+def runner
